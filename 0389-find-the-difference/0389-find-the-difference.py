@@ -1,7 +1,5 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        s = sorted(list(s))
-        t = sorted(list(t))
         d = {}
         for i in s:
             d[i]=d.get(i, 0) + 1
