@@ -6,28 +6,10 @@
 
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        dummyA = ListNode(0)
-        dummyA.next = headA
-        dummyB = ListNode(0)
-        dummyB.next = headB
+        l1, l2 = headA, headB
 
-        currA = dummyA
-        currB = dummyB
-        hashtable = {}
-
-        while currA:
-            if currA.next and currA.next not in hashtable:
-                hashtable[currA.next] = currA.next.val
-            
-            currA = currA.next
-
-        while currB:
-            if currB.next and currB.next in hashtable:
-                tmp = currB.next
-                return tmp
-            elif currB.next:
-                hashtable[currB.next] = currB.next.val
-
-            currB = currB.next
-
-        return None
+        while l1 != l2:
+            l1 = l1.next if l1 else headB
+            l2 = l2.next if l2 else headA
+        
+        return l1
