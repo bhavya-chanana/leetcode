@@ -11,7 +11,6 @@ class Solution:
                 profit = prices[r] - prices[l]
                 maxProfit = max(maxProfit, profit)
                 r += 1
-        print('r', prices[r-1])
-        print('l', prices[l])
+
         
         return maxProfit
