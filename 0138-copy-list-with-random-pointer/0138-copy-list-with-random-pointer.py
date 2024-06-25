@@ -9,14 +9,14 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        oldToCopy = {None : None}
+        oldToCopy = {None: None}
         curr = head
-        
-        while curr:
-            copy = Node(curr.val)
-            oldToCopy[curr] = copy
-            curr = curr.next
 
+        while curr: 
+            new = Node(curr.val)
+            oldToCopy[curr] = new
+            curr = curr.next
+        
         curr = head
         while curr:
             copy = oldToCopy[curr]
@@ -24,5 +24,4 @@ class Solution:
             copy.random = oldToCopy[curr.random]
             curr = curr.next
         
-        return oldToCopy[head]
-
+        return oldToCopy[head] 
