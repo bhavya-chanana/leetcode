@@ -28,3 +28,18 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Quantum2511/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+<!---LeetCode Topics End-->
