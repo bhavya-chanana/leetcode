@@ -7,7 +7,6 @@ class Solution:
         count = 0
         for r in range(len(arr)):
             if len(window) == k:
-                
                 if s >= maxSum:
                     count += 1
                 s = s - window[0]
