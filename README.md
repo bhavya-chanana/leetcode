@@ -40,16 +40,19 @@ leetcode questions solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantum2511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantum2511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Quantum2511/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantum2511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2470-removing-stars-from-a-string](https://github.com/Quantum2511/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
