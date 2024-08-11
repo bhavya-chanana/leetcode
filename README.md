@@ -39,6 +39,7 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantum2511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Quantum2511/leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Quantum2511/leetcode/tree/master/0567-permutation-in-string) |
@@ -46,6 +47,7 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantum2511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Quantum2511/leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Quantum2511/leetcode/tree/master/0567-permutation-in-string) |
@@ -54,6 +56,7 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Quantum2511/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Quantum2511/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Quantum2511/leetcode/tree/master/0567-permutation-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Quantum2511/leetcode/tree/master/2470-removing-stars-from-a-string) |
