@@ -27,7 +27,6 @@ class Solution:
 
 
 # for not defining global variable at the start → make nonlocal res inside the dfs function
-```python
 # for not defining global variable at the start 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -56,4 +55,3 @@ class Solution:
         dfs(root)
 
         return res
-```
