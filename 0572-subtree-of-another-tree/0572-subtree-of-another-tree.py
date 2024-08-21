@@ -9,7 +9,6 @@ class Solution:
         if not subRoot: return True
         if not root: return False
 
-
         if self.sameTree(root, subRoot): 
             return True
 
