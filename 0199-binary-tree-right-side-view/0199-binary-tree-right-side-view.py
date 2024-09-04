@@ -14,7 +14,7 @@ class Solution:
             
         while q:
             for i in range(len(q)):
-                rightnode = None
+                rightSide = None
                 node = q.popleft()
                 rightSide = node
                 if node.left:
@@ -22,7 +22,7 @@ class Solution:
                 if node.right:
                     q.append(node.right)
             
-            res.append(node.val)
+            res.append(rightSide.val)
 
         return res
         
