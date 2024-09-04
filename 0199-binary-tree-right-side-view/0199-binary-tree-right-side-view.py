@@ -14,15 +14,13 @@ class Solution:
             
         while q:
             for i in range(len(q)):
-                rightSide = None
                 node = q.popleft()
-                rightSide = node
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
             
-            res.append(rightSide.val)
+            res.append(node.val)
 
         return res
         
