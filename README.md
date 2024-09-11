@@ -131,4 +131,8 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Quantum2511/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Quantum2511/leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
