@@ -13,8 +13,8 @@ class Solution:
                 # anyone if condition can be written - 
                 # second if - indent below code inside this
             mid = len(arr) // 2
-
             midNode = TreeNode(arr[mid])
+            
             midNode.left = binary(arr[:mid])
             midNode.right = binary(arr[mid+1:])
         
