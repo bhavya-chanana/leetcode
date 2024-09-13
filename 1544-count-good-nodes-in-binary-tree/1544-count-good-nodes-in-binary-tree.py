@@ -6,7 +6,6 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        good = []
         stack = [[root, root.val]]
         count = 0
         
