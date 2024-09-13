@@ -6,23 +6,19 @@
 #         self.right = right
 class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        if not nums:
-            return None
-
         def binary(arr):
             if not arr:
                 return None
-            if len(arr) > 0:
-                mid = len(arr) // 2
-                left, right = mid - 1, mid + 1
-                midNode = TreeNode(arr[mid])
-            
-                if left >= 0 and left < len(arr):
-                    midNode.left = binary(arr[:mid])
-                if right < len(arr):
-                    midNode.right = binary(arr[mid+1:])
-            
-                return midNode
+            # if len(arr) > 0:
+                # anyone if condition can be written - 
+                # second if - indent below code inside this
+            mid = len(arr) // 2
+
+            midNode = TreeNode(arr[mid])
+            midNode.left = binary(arr[:mid])
+            midNode.right = binary(arr[mid+1:])
+        
+            return midNode
 
         return binary(nums)
 
