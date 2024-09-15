@@ -10,10 +10,10 @@ class Solution:
         def inOrder(node):
             if not node:
                 return 0
-            
             inOrder(node.left)
             res.append(node.val)
             inOrder(node.right)
+            return res
 
         inOrder(root)
         return res[k - 1]
