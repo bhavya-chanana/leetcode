@@ -4,6 +4,7 @@ class Solution:
             return 0
         maxheap = [-i for i in stones]
         heapq.heapify(maxheap)
+        print(maxheap)
 
         while len(maxheap) > 1:
             y = heappop(maxheap)
