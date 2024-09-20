@@ -4,15 +4,13 @@ class Solution:
             return 0
         maxheap = [-i for i in stones]
         heapq.heapify(maxheap)
-        print(maxheap)
 
         while len(maxheap) > 1:
-            y = -heappop(maxheap)
-            x = -heappop(maxheap)
-            y = y - x
-            if y != 0:
-                heappush(maxheap, -y)
+            y = heappop(maxheap)
+            x = heappop(maxheap)
             
+            if y != x:
+                heappush(maxheap, y-x)
 
         if maxheap:
             return -maxheap[0]
