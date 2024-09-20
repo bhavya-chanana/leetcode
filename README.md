@@ -35,6 +35,7 @@ leetcode questions solutions
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Quantum2511/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Quantum2511/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Quantum2511/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
 ## Data Stream
 |  |
 | ------- |
