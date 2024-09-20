@@ -5,11 +5,10 @@ class Solution:
             dist = x**2 + y**2
             minHeap.append((dist, x, y))
         heapq.heapify(minHeap)
-        print(minHeap)
 
         res = []
         for _ in range(k):
             dist, x, y = heapq.heappop(minHeap)
             res.append((x, y))
-        print(res)
+        
         return res
