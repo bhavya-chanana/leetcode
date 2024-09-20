@@ -10,6 +10,6 @@ class Solution:
         res = []
         for _ in range(k):
             dist, x, y = heapq.heappop(minHeap)
-            res.append([x, y])
+            res.append((x, y))
         print(res)
         return res
