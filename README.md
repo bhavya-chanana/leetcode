@@ -40,6 +40,7 @@ leetcode questions solutions
 | [1014-k-closest-points-to-origin](https://github.com/Quantum2511/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Quantum2511/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1762-furthest-building-you-can-reach](https://github.com/Quantum2511/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ leetcode questions solutions
 | [0789-kth-largest-element-in-a-stream](https://github.com/Quantum2511/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Quantum2511/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
+| [1762-furthest-building-you-can-reach](https://github.com/Quantum2511/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Data Stream
 |  |
 | ------- |
@@ -201,6 +203,7 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
+| [1762-furthest-building-you-can-reach](https://github.com/Quantum2511/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 ## Counting
 |  |
 | ------- |
