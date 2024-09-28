@@ -36,6 +36,7 @@ leetcode questions solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Quantum2511/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Quantum2511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Quantum2511/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Quantum2511/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -47,6 +48,7 @@ leetcode questions solutions
 | [0219-contains-duplicate-ii](https://github.com/Quantum2511/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Quantum2511/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +174,7 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Quantum2511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Quantum2511/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Quantum2511/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
@@ -187,10 +190,19 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Quantum2511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Quantum2511/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Quantum2511/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Quantum2511/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
