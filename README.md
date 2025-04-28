@@ -41,6 +41,7 @@ leetcode questions solutions
 | [1127-last-stone-weight](https://github.com/Quantum2511/leetcode/tree/master/1127-last-stone-weight) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Quantum2511/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1762-furthest-building-you-can-reach](https://github.com/Quantum2511/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Quantum2511/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ leetcode questions solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Quantum2511/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Quantum2511/leetcode/tree/master/0567-permutation-in-string) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Quantum2511/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Quantum2511/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ leetcode questions solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Quantum2511/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Quantum2511/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Quantum2511/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Quantum2511/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +215,8 @@ leetcode questions solutions
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Quantum2511/leetcode/tree/master/0621-task-scheduler) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Quantum2511/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
